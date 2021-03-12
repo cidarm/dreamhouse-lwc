@@ -6,6 +6,20 @@
             "package": "DreamhouseLWC",
             "versionName": "Spring '21",
             "versionNumber": "51.0.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "dreamhouse",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "th-dreamhouse",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -20,6 +34,8 @@
         "DreamhouseLWC@50.0.0-22": "04t3h000004sm5nAAA",
         "DreamhouseLWC@50.0.0-26": "04t3h000004sm67AAA",
         "DreamhouseLWC@50.0.0-28": "04t3h000004smaYAAQ",
-        "DreamhouseLWC@51.0.0-1": "04t3h000004smn8AAA"
+        "DreamhouseLWC@51.0.0-1": "04t3h000004smn8AAA",
+        "dreamhouse": "0Ho4x000000wk9fCAA",
+        "th-dreamhouse": "0Ho4x000000wk9kCAA"
     }
 }
